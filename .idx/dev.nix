@@ -8,6 +8,7 @@
     pkgs.nodejs_20
     pkgs.yarn
     pkgs.nodePackages.pnpm
+    pkgs.openssl_3_3.bin
     pkgs.bun
   ];
   # Sets environment variables in the workspace
